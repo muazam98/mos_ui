@@ -1,4 +1,4 @@
-#Sat Sep 19 11:49:18 SGT 2020
-base.0=D\:\\myProjectFlutter\\salon_mos\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Tue Oct 06 22:25:21 SGT 2020
+base.0=D\:\\myProjectFlutter\\mos\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
